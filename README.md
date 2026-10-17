@@ -38,8 +38,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/today-idk/today-idk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/today-idk/today-idk/refs/heads/output/github-contribution-grid-snake-dark.svg?token=GHSAT0AAAAAAEFUFKKRQSHPFKHDMC5PHOOY2WTNTBA" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/today-idk/today-idk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/today-idk/today-idk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/today-idk/today-idk/refs/heads/output/github-contribution-grid-snake.svg?token=GHSAT0AAAAAAEFUFKKRI2FKATOLNLONHK2S2WTNUCA" />
   </picture>
 </p>
