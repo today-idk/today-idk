@@ -1,0 +1,9 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="circle">
+      <circle cx="100" cy="100" r="100"/>
+    </clipPath>
+  </defs>
+  <image href="https://avatars.githubusercontent.com/u/202086580?s=400&u=a66040247f78fa0d7e3779c067de64d19e113929&v=4"
+         width="200" height="200" clip-path="url(#circle)" preserveAspectRatio="xMidYMid slice"/>
+</svg>
